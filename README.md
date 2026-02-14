@@ -1,11 +1,5 @@
 # From Solidity to Soroban: Escrow Smart Contract
 
-A price-triggered escrow smart contract implemented in both **Solidity** and **Soroban (Rust)**, built as a companion to the article and video **"From Solidity to Soroban: Build an Escrow Smart Contract on Stellar."**
-
-> **Article:** [From Solidity to Soroban](#) <!-- TODO: replace with Medium URL -->
->
-> **Video:** [YouTube](#) <!-- TODO: replace with YouTube URL -->
-
 ## What This Is
 
 A working escrow where:
