@@ -1,4 +1,4 @@
-# From Solidity to Soroban: Escrow Smart Contract
+# From Solidity to Soroban: Escrow Smart Contract 
 
 ## What This Is
 
